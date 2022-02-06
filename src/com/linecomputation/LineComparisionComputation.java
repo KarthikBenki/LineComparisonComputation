@@ -34,7 +34,7 @@ public class LineComparisionComputation {
 		int lineOneLength = lineLengthCal();
 		int lineTwoLength = lineLengthCal();
 		System.out.println("The length of line 1 is: "+lineOneLength);
-		System.out.println("The length of line 2 is: "+lineOneLength);
+		System.out.println("The length of line 2 is: "+lineTwoLength);
 		equalityCheck(lineOneLength,lineTwoLength);
 		
 
